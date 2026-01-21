@@ -5,7 +5,7 @@
 **Start date:** January 12  
 **End date:** January 17 
 
-> Research and 3d model were already completed before this journal.  
+> Research and 3d model were already completed before this journal. these were before reboot started 
 
 ![1.png](/1.png)
 ---
@@ -67,5 +67,6 @@ After uploading the code, I conducted functional testing . The device successful
 **Time spent:** ~4 hours
 
 In the final day I transitioned away from using the Arduino Uno and built a standalone ATmega328P circuit instead. After burning the bootloader and verifying stable operation, I transferred all connections from the Arduino Uno to the ATmega chip. This step reduced the overall size of the system and made the circuit closer to a final, independent design. Extra care was taken to recheck pin mappings and signal integrity to ensure the circuit functioned identically to the Arduino-based setup. then i recorded a test plan video to demonstrate the system’s operation.
+
 
 ![ff.jpeg](/ff.jpeg)
